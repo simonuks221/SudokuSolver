@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\SimonoDalykai\FormsAplications\SudokuSolver\SudokuSolver\bin\Release\SudokuSolver.exe.config
+C:\Users\User\Desktop\SimonoDalykai\FormsAplications\SudokuSolver\SudokuSolver\bin\Release\SudokuSolver.exe
+C:\Users\User\Desktop\SimonoDalykai\FormsAplications\SudokuSolver\SudokuSolver\bin\Release\SudokuSolver.pdb
+C:\Users\User\Desktop\SimonoDalykai\FormsAplications\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SimonoDalykai\FormsAplications\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.Form1.resources
+C:\Users\User\Desktop\SimonoDalykai\FormsAplications\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.Properties.Resources.resources
+C:\Users\User\Desktop\SimonoDalykai\FormsAplications\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SimonoDalykai\FormsAplications\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.exe
+C:\Users\User\Desktop\SimonoDalykai\FormsAplications\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.pdb
